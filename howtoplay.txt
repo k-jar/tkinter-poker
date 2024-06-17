@@ -1,0 +1,19 @@
+This game is a recreation of Texas Hold'em Poker.
+This guide is a very basic overview of the game.
+
+At the start you receive two cards (called holecards), after everyone has their cards there is a round of betting.
+In these betting rounds you can choose to, check/call, raise or fold.
+ When you fold you are out of the game, if there is a bet to match you must call (match this bet) to stay in the game. 
+If there is no bet to match you can check (you bet nothing). 
+The game automatically checks whether you can check or call. 
+You may also raise the bet using the slider to set the amount you want to raise.
+After this, three community cards are shown and there is another round of betting.
+The next two community cards are shown one at a time, with a round of betting after each card.
+Finally, there is the showdown where all remaining players show their hands.
+
+You form your hand by combining cards from your holecards and the community cards to get the best possible combination. 
+This game automatically forms the best possible hand for you.
+Your formed hand can consist of just community cards.
+
+You win by having a better hand than other players that are still in the game. 
+If you are the only player left you automatically win.
